@@ -1,6 +1,6 @@
 ---
 name: RFJ
-about: Describe this issue template's purpose here.
+about: For all Requests for Job
 title: ''
 labels: ''
 assignees: ''
