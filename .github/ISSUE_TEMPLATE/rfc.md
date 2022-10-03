@@ -1,6 +1,6 @@
 ---
 name: RFC
-about: Describe this issue template's purpose here.
+about: For all Requests for comments
 title: ''
 labels: ''
 assignees: ''
