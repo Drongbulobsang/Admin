@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
+name: RFJ
+description: For all RFJs
+title: "RFJ000 - Title"
+labels:
+-
+assignees: 
+- 
 body:
   - type: markdown
     attributes:
