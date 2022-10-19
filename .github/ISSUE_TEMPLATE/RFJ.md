@@ -10,9 +10,13 @@ assignees: ''
 
 ལས་ཀའི་སྙན་ཞུ། RFJ title: RFJ00
 
+སློབ་སྟོན་པ། Advisor:
+
 ལས་ཀའི་སྦྱིན་བདག Job ordered by: 
 
 འགན་འཁུར་བ། Job Owner's GitHub account: 
+
+
 
 ## གནད་འགག་གི་དྲི་བ།  Preliminary questions 
 
